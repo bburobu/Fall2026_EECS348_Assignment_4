@@ -14,7 +14,7 @@
 //Author: Christopher Warren
 //Creation date: 10/15/2026
 // Revision date: 10/15/2026
-// Revisions:1. added comments
+// Revisions:1. added comments  2.included validity checker. 3. implemented while loop to skip unnecessary recursions. 4. restructured solvesudoku function to find empty spaces before calling recursive function
 
 
 #include <iostream> // input/output
